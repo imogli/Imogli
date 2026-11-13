@@ -9,16 +9,53 @@
 
 Ciberseguridad
 
-Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
+Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
 
-Programación y bases de datos
+Lenguajes de programación
+
+Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
+
+Desarrollo web
+
+Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
+
+Bases de datos
+
+Mostrar imagen
+
+Redes y protocolos
 
 Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
 
 Datos y control de versiones
 
-Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
+Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
 
+💡 Lo que sé hacer
+
+Ciberseguridad (formación y práctica a nivel académico)
+
+Escanear redes, puertos y servicios para descubrir equipos activos y servicios expuestos
+Capturar y analizar tráfico de red para identificar protocolos y datos sin cifrar
+Seguir las fases de una prueba de penetración: reconocimiento, escaneo, ganancia y mantenimiento de acceso, y reporte
+Identificar vulnerabilidades web básicas del OWASP Top 10: inyección SQL, XSS y autenticación rota
+Detectar vulnerabilidades en sistemas con herramientas automáticas como Nessus y OpenVAS
+Aplicar conceptos de gestión de riesgos: activos, amenazas, impacto, probabilidad y matrices de riesgo
+Entender normas y marcos como ISO/IEC 27001 y NIST, y políticas de seguridad y control interno
+Configurar y entender firewalls, IDS/IPS y VPN, redes TCP/IP, modelo OSI y segmentación con VLAN
+Reconocer ataques comunes de red: Man-in-the-Middle, phishing, DoS/DDoS y spoofing
+
+Datos y trabajo administrativo
+
+Crear reportes y tableros con Power BI y Looker Studio para apoyar decisiones
+Verificar, cargar y organizar facturas en SAP, cuidando la trazabilidad de los registros
+Organizar documentación contable para procesos de auditoría y control interno
+Analizar competencia y tendencias de mercado para generar reportes de desempeño
+
+Otras habilidades
+
+Inglés intermedio (B1)
+Ajedrez ♟️
 🔐 Laboratorios de ciberseguridad
 Escaneo de redes y puertos con Nmap: ver laboratorio
 Análisis de tráfico con Wireshark: ver laboratorio
