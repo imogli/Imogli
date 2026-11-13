@@ -8,7 +8,6 @@ Ingeniero Informático de la Institución Universitaria de Envigado (2026), con 
 🛠️ Lenguajes y tecnologías
 <p> <img src="https://skillicons.dev/icons?i=py,java,php,js,ts,nodejs,html,css,postgres,linux,git,github&perline=12" alt="Lenguajes y tecnologías"> </p>
 
-Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
 
 🔐 Ciberseguridad
 
